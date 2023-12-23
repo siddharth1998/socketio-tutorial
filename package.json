@@ -1,0 +1,17 @@
+{
+  "name": "socketstutorial",
+  "version": "1.0.0",
+  "description": "Just a tutorial from socket.io tutorial ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Siddharth.R.D.Jain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2",
+    "socket.io": "^4.7.2"
+  }
+}
